@@ -1,1 +1,3 @@
 # SAFARICOM_MPESA_API
+
+Am yet to start this project for RESTFUL API FOR SAFARICOMS MPESA API
